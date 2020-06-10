@@ -1,0 +1,32 @@
+#ifndef H_KAZACHTKOM_PROGRAMTREEINCLUDES
+#define H_KAZACHTKOM_PROGRAMTREEINCLUDES
+
+#include "AndExpression.h"
+#include "ArithmeticExpression.h"
+#include "Assignment.h"
+#include "Comparable.h"
+#include "Condition.h"
+#include "DeclarationsBlock.h"
+#include "EqualityExpression.h"
+#include "FunCallArgument.h"
+#include "FunCallStatement.h"
+#include "FunctionDefinition.h"
+#include "FunctionCall.h"
+#include "IfElse.h"
+#include "Identifier.h"
+#include "LogicalExpression.h"
+#include "Multiplicable.h"
+#include "MultiplicativeExpression.h"
+#include "Number.h"
+#include "Program.h"
+#include "RelationalExpression.h"
+#include "ReturnStatement.h"
+#include "RunningBlock.h"
+#include "Statement.h"
+#include "StatementBlock.h"
+#include "StdinGet.h"
+#include "StdoutPrint.h"
+#include "VariableDeclaration.h"
+#include "WhileLoop.h"
+
+#endif // H_KAZACHTKOM_PROGRAMTREEINCLUDES
